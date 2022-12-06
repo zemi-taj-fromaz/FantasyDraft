@@ -49,21 +49,39 @@ When alpha is 0 the search is equal to greedy.
 When alpha is 1 the search is completely randomised.
 
 Solution printout example : 
-    Starting lineup : \n
-    545 | FW | Vardy | Leicester | 156 | 9.7 \n
-    10 | GK | Patr∩┐╜cio | Wolves | 110 | 5.1 \n
-    142 | DEF | Dunk | Brighton | 85 | 4.8     \n
-    384 | MID | Snodgrass | West Ham | 86 | 5.3\n
-    285 | MID | De Bruyne | Man City | 178 | 10.7 \n 
-    118 | DEF | Stevens | Sheffield Utd | 104 | 5.1
-    119 | DEF | Baldock | Sheffield Utd | 109 | 5.1
-    282 | MID | Salah | Liverpool | 177 | 12.8
-    356 | MID | Doucour∩┐╜ | Watford | 92 | 5.6
-    293 | MID | Alli | Spurs | 107 | 8.3
-    166 | DEF | Fern∩┐╜ndez | Newcastle | 78 | 4.5
-    Bench payers : 
-    572 | FW | Maupay | Brighton | 99 | 5.8
-    561 | FW | Calvert-Lewin | Everton | 109 | 6.4
-    124 | DEF | Mee | Burnley | 85 | 5
-    12 | GK | Dubravka | Newcastle | 110 | 5
-    Team score : 1282
+    Starting lineup :   
+
+    545 | FW | Vardy | Leicester | 156 | 9.7    
+
+    10 | GK | Patr∩┐╜cio | Wolves | 110 | 5.1   
+
+    142 | DEF | Dunk | Brighton | 85 | 4.8  
+
+    384 | MID | Snodgrass | West Ham | 86 | 5.3 
+
+    285 | MID | De Bruyne | Man City | 178 | 10.7   
+
+    118 | DEF | Stevens | Sheffield Utd | 104 | 5.1 
+
+    119 | DEF | Baldock | Sheffield Utd | 109 | 5.1 
+
+    282 | MID | Salah | Liverpool | 177 | 12.8  
+
+    356 | MID | Doucour∩┐╜ | Watford | 92 | 5.6 
+
+    293 | MID | Alli | Spurs | 107 | 8.3    
+
+    166 | DEF | Fern∩┐╜ndez | Newcastle | 78 | 4.5  
+
+    Bench payers :  
+
+    572 | FW | Maupay | Brighton | 99 | 5.8 
+
+    561 | FW | Calvert-Lewin | Everton | 109 | 6.4  
+
+    124 | DEF | Mee | Burnley | 85 | 5  
+
+    12 | GK | Dubravka | Newcastle | 110 | 5    
+
+    Team score : 1282   
+    
